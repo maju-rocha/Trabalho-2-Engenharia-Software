@@ -28,6 +28,3 @@ ENV/
 # Arquivos locais de configuração
 .DS_Store
 Thumbs.db
-
-# Arquivos específicos do projeto
-users.csv
